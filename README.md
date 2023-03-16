@@ -30,7 +30,7 @@ En este repositorio queda evidenciado el proceso de solucion de los puntos del r
 >Realice un programa que lea un número enteros y determine si es par o impar.
 
 ## **solucion**
-
+t1_p9.py
 #####
 
 
