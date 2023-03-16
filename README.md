@@ -8,6 +8,5 @@ En este repositorio queda evidenciado el proceso de solucion de los puntos del r
 
 ## **solucion**
 
-![quiz][def]
+![quiz](https://drive.google.com/file/d/1V7Adjc7F36mIDzsCw3TvYLTRwL5O1zL6/view?usp=share_link)
 
-[def]: https://drive.google.com/file/d/1V7Adjc7F36mIDzsCw3TvYLTRwL5O1zL6/view?usp=share_link
