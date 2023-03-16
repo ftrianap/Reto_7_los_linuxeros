@@ -7,3 +7,7 @@ En este repositorio queda evidenciado el proceso de solucion de los puntos del r
 >Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien).
 
 ## **solucion**
+
+![quiz][def]
+
+[def]: https://drive.google.com/file/d/1V7Adjc7F36mIDzsCw3TvYLTRwL5O1zL6/view?usp=share_link
