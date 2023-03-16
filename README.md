@@ -89,7 +89,7 @@ else:
     print("La letra " +str(s)+ " es una consonante")
 ````
 
-##### Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
+##### 7. Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
 - El promedio
 - La mediana
 - El promedio multiplicativo (multilplica todos y luego calcula la raíz de la cantidad de operandos)
@@ -196,7 +196,7 @@ Se adjunta su respectivo diagrama de flujo:
 
 ##### 9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.
 
-Para 
+Se construye un programa donde se asocia cada país de américa con su respectiva capital. Se nombra una variable dónde los argumentos que la conforman forman dichas parejas. Después se le pide al usuario que digite el nombre de un país, si el país está en América, el programa como resultado arrojará su capital. Si no, arrojará que el país no se encuentra en América.
 
 ```python
 paisyCapital = {
