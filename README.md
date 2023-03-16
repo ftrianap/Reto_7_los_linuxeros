@@ -1,7 +1,7 @@
 # TALLER #1
-Fauel Joel Triana Pinilla
-Andrés Felipe Sánchez Martínez
-Juan David García Mendoza
+- Fauel Joel Triana Pinilla
+- Andrés Felipe Sánchez Martínez
+- Juan David García Mendoza
 
 En este repositorio queda evidenciado el proceso de solución de los puntos del taller #1 y su respectivo extra como lo es los diagramas de flujo, los cuáles de acuerdo al último dígito de las cedulas son 2, 6 y 8.
 
@@ -33,7 +33,13 @@ elif c>a>b or c>b>a:
 elif b==a and a==c:
     print("Los números reales ingresados son iguales ")
 ```
+Se adjunta su respectivo diagrama de flujo:
+
+[![image.png](https://i.postimg.cc/QdrQkD0z/image.png)](https://postimg.cc/BXMP4rW5)
+
 ##### 3. Realice un programa que lea un número enteros y determine si es par o impar.
+
+Se le pide al usuario que ingrese un número entero. Se analiza en la operación módulo entre 2. El cual, si arroja 0, se confirma que el número es par. Si no, el número resulta siendo impar.
 
 ```python
 n = int(input("Ingrese un número entero: "))
@@ -184,6 +190,9 @@ elif F >= 3e17 and F < 3e19:
 else:
     print("La onda se halla en la categoria de rayos gamma.")
 ```
+Se adjunta su respectivo diagrama de flujo:
+
+[![image.png](https://i.postimg.cc/TYj5Qy7X/image.png)](https://postimg.cc/SJsKxKbZ)
 
 ##### 9.Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.
 
